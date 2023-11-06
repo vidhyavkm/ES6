@@ -1,0 +1,56 @@
+ES6 features:
+
+The let 
+the const 
+Arrow functions
+the spread opeartor
+the rest parameter
+for of, for each
+map reduce filter
+set
+classes
+promise=> resolve, reject 
+some array and string methods
+includes find
+destructuring
+object shorthand 
+import features.
+
+var => we can reassign and redeclare
+let => we can reassign but cant redeclare
+const => cant reassign or redeclare
+
+hoisting=> declaring the variables to the top of the scope.
+returns undefined instead of throwing error.
+
+arrow function:
+
+=> it gets shorter.
+=> if the function has only one statement , we can remove the brackets and the return keyword.
+=> ex: const hi = () => "Hello"
+
+spread parameter:
+
+=> it helps us to expand an array and objects (guvi=> g u v i) 
+=> it helps us to merge two arrays or more then opne array
+=> used to add one or more indexes in an arrays
+=> used to clone an object
+
+rest: (optional)
+
+=> we can use only in functions
+=> compresess the elements
+=> it can be use only at the last parameter
+=> when w erequire to pass arguments but were nt sure how many we have to pass , 
+then we can use rest parameter.
+
+set :
+
+we can remove duplicates
+we can add a new values amd variables
+
+
+
+
+
+
